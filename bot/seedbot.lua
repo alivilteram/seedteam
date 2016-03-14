@@ -232,29 +232,28 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {206623982,153395132,187873358,75213323},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
+websites :
+https://www.salvador-sec.ir
+https://www.msfshop.ir
 
 Admins
-@Empero [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+@kingvilter [Developer]
+@salvador_hacker [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+iman daneshi
+mustafaflux
+royal team
+arman
+and all friends
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@VILTERBOTCH [English]
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -338,6 +337,10 @@ This command will send text to [group_id]
 *Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only admins and sudo can use res, setowner, commands
+
+Our channels
+@VILTERBOTCH [English]
+
 ]],
     help_text = [[
 Commands list :
@@ -466,6 +469,11 @@ will return group ban list
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only owner can use res,setowner,promote,demote and log commands
+
+Our channels
+@VILTERBOTCH [English]
+
+
 
 ]],
 	help_text_super =[[
@@ -608,6 +616,10 @@ Returns group logs
 *Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
 
 *Only owner can use res, setowner, promote, demote, and log commands
+
+Our channels
+@VILTERBOTCH [English]
+
 
 ]],
   }
