@@ -143,8 +143,8 @@ return {
     "^[#!/]([Ss]tats)$",
     "^[#!/]([Ss]tatslist)$",
     "^[#!/]([Ss]tats) (group) (%d+)",
-    "^[#!/]([Ss]tats) (teleseed)",
-	"^[#!/]([Tt]eleseed)"
+    "^[#!/]([Ss]tats) (vilter)",
+	"^[#!/]([Vv]ilter)"
     }, 
   run = run
 }
