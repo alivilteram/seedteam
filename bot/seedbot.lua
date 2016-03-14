@@ -235,7 +235,7 @@ function create_config( )
     },
     sudo_users = {206623982,153395132,187873358,75213323},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
+    about_text = [[Vilterbot v1.5
 An advanced administration bot based on TG-CLI written in Lua
 
 websites :
